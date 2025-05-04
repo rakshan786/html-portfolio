@@ -1,2 +1,2 @@
 # html-portfolio
-Just basic website to practice concepts of html
+Just a basic website to practice concepts of html
